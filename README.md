@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JEGADEESHMANI</h1>
-<h3 align="center">A passionate Devops Engineer from India</h3>
+<h3 align="center">"Computer Science and Engineering graduate with a solid foundation in Networking, Internet Protocols, Cloud Computing, HTML, and CSS."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jegadeeshmanit&label=Profile%20views&color=0e75b6&style=flat" alt="jegadeeshmanit" /> </p>
 
