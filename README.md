@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JEGADEESHMANI</h1>
-<h3 align="center">"Computer Science and Engineering graduate with a solid foundation in Networking, Internet Protocols, Cloud Computing, HTML, and CSS."</h3>
+<h3 align="center">"Aspiring DevOps Engineer with a passion for optimizing development workflows and enhancing operational efficiency. Skilled in CI/CD pipelines, cloud computing (AWS), Linux administration, and automation. Proficient in tools like Kubernetes, Docker, Jenkins, Terraform, and Ansible. Excited to contribute to innovative teams and excel in a challenging DevOps role"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jegadeeshmanit&label=Profile%20views&color=0e75b6&style=flat" alt="jegadeeshmanit" /> </p>
 
